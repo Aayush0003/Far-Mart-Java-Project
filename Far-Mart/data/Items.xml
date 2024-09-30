@@ -1,0 +1,74 @@
+<list>
+  <com.yrl.Item>
+    <itemCode>code</itemCode>
+    <itemType>type</itemType>
+    <itemName>name</itemName>
+    <basePrice>base cost</basePrice>
+  </com.yrl.Item>
+  <com.yrl.Item>
+    <itemCode>p001</itemCode>
+    <itemType>P</itemType>
+    <itemName>iPhone 15</itemName>
+    <basePrice>1500</basePrice>
+  </com.yrl.Item>
+  <com.yrl.Item>
+    <itemCode>p002</itemCode>
+    <itemType>P</itemType>
+    <itemName>Samsung Galaxy A21</itemName>
+    <basePrice>99.99</basePrice>
+  </com.yrl.Item>
+  <com.yrl.Item>
+    <itemCode>p003</itemCode>
+    <itemType>P</itemType>
+    <itemName>iPhone 11 </itemName>
+    <basePrice>999.99</basePrice>
+  </com.yrl.Item>
+  <com.yrl.Item>
+    <itemCode>p004</itemCode>
+    <itemType>P</itemType>
+    <itemName>iphone 15 charger</itemName>
+    <basePrice>49.99</basePrice>
+  </com.yrl.Item>
+  <com.yrl.Item>
+    <itemCode>s001</itemCode>
+    <itemType>S</itemType>
+    <itemName>Device Repair</itemName>
+    <basePrice>75.50</basePrice>
+  </com.yrl.Item>
+  <com.yrl.Item>
+    <itemCode>s002</itemCode>
+    <itemType>S</itemType>
+    <itemName>Router Install</itemName>
+    <basePrice>120.99</basePrice>
+  </com.yrl.Item>
+  <com.yrl.Item>
+    <itemCode>s003</itemCode>
+    <itemType>S</itemType>
+    <itemName>Delivery</itemName>
+    <basePrice>59.99</basePrice>
+  </com.yrl.Item>
+  <com.yrl.Item>
+    <itemCode>d001</itemCode>
+    <itemType>D</itemType>
+    <itemName>3G Basic</itemName>
+    <basePrice>0.99</basePrice>
+  </com.yrl.Item>
+  <com.yrl.Item>
+    <itemCode>d002</itemCode>
+    <itemType>D</itemType>
+    <itemName>5G Deluxe</itemName>
+    <basePrice>2.43</basePrice>
+  </com.yrl.Item>
+  <com.yrl.Item>
+    <itemCode>d003</itemCode>
+    <itemType>V</itemType>
+    <itemName>Unlimited Daily</itemName>
+    <basePrice>50</basePrice>
+  </com.yrl.Item>
+  <com.yrl.Item>
+    <itemCode>d004</itemCode>
+    <itemType>V</itemType>
+    <itemName>Unlimited talk</itemName>
+    <basePrice>70</basePrice>
+  </com.yrl.Item>
+</list>

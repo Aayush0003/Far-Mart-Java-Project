@@ -1,0 +1,59 @@
+[
+  {
+    "UUID": "uuid",
+    "firstName": "firstName",
+    "lastName": "lastName",
+    "address": {
+      "street": "street",
+      "city": "city",
+      "state": "state",
+      "zip": "zip"
+    },
+    "emailList": [
+      "email(s)"
+    ]
+  },
+  {
+    "UUID": "p001",
+    "firstName": "Superman",
+    "lastName": "Kent",
+    "address": {
+      "street": "123 Metropolis Ln",
+      "city": "Metropolis",
+      "state": "NY",
+      "zip": "54321"
+    },
+    "emailList": [
+      "superman@email.com"
+    ]
+  },
+  {
+    "UUID": "p002",
+    "firstName": "Wonder Woman",
+    "lastName": "Prince",
+    "address": {
+      "street": "456 Amazon Ave",
+      "city": "Themyscira",
+      "state": "PA",
+      "zip": "67890"
+    },
+    "emailList": [
+      "wonderwoman@email.com"
+    ]
+  },
+  {
+    "UUID": "p003",
+    "firstName": "Spider-Man",
+    "lastName": "Parker",
+    "address": {
+      "street": "789 Web Rd",
+      "city": "New York",
+      "state": "NY",
+      "zip": "12345"
+    },
+    "emailList": [
+      "spiderman@email.com",
+      "spiderman1@email.com"
+    ]
+  }
+]

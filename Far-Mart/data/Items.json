@@ -1,0 +1,74 @@
+[
+  {
+    "itemCode": "code",
+    "itemType": "type",
+    "itemName": "name",
+    "basePrice": "base cost"
+  },
+  {
+    "itemCode": "p001",
+    "itemType": "P",
+    "itemName": "iPhone 15",
+    "basePrice": "1500"
+  },
+  {
+    "itemCode": "p002",
+    "itemType": "P",
+    "itemName": "Samsung Galaxy A21",
+    "basePrice": "99.99"
+  },
+  {
+    "itemCode": "p003",
+    "itemType": "P",
+    "itemName": "iPhone 11 ",
+    "basePrice": "999.99"
+  },
+  {
+    "itemCode": "p004",
+    "itemType": "P",
+    "itemName": "iphone 15 charger",
+    "basePrice": "49.99"
+  },
+  {
+    "itemCode": "s001",
+    "itemType": "S",
+    "itemName": "Device Repair",
+    "basePrice": "75.50"
+  },
+  {
+    "itemCode": "s002",
+    "itemType": "S",
+    "itemName": "Router Install",
+    "basePrice": "120.99"
+  },
+  {
+    "itemCode": "s003",
+    "itemType": "S",
+    "itemName": "Delivery",
+    "basePrice": "59.99"
+  },
+  {
+    "itemCode": "d001",
+    "itemType": "D",
+    "itemName": "3G Basic",
+    "basePrice": "0.99"
+  },
+  {
+    "itemCode": "d002",
+    "itemType": "D",
+    "itemName": "5G Deluxe",
+    "basePrice": "2.43"
+  },
+  {
+    "itemCode": "d003",
+    "itemType": "V",
+    "itemName": "Unlimited Daily",
+    "basePrice": "50"
+  },
+  {
+    "itemCode": "d004",
+    "itemType": "V",
+    "itemName": "Unlimited talk",
+    "basePrice": "70"
+  }
+]

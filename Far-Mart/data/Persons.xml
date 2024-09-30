@@ -1,0 +1,59 @@
+<list>
+  <com.yrl.Person>
+    <UUID>uuid</UUID>
+    <firstName>firstName</firstName>
+    <lastName>lastName</lastName>
+    <address>
+      <street>street</street>
+      <city>city</city>
+      <state>state</state>
+      <zip>zip</zip>
+    </address>
+    <emailList>
+      <string>email(s)</string>
+    </emailList>
+  </com.yrl.Person>
+  <com.yrl.Person>
+    <UUID>p001</UUID>
+    <firstName>Superman</firstName>
+    <lastName>Kent</lastName>
+    <address>
+      <street>123 Metropolis Ln</street>
+      <city>Metropolis</city>
+      <state>NY</state>
+      <zip>54321</zip>
+    </address>
+    <emailList>
+      <string>superman@email.com</string>
+    </emailList>
+  </com.yrl.Person>
+  <com.yrl.Person>
+    <UUID>p002</UUID>
+    <firstName>Wonder Woman</firstName>
+    <lastName>Prince</lastName>
+    <address>
+      <street>456 Amazon Ave</street>
+      <city>Themyscira</city>
+      <state>PA</state>
+      <zip>67890</zip>
+    </address>
+    <emailList>
+      <string>wonderwoman@email.com</string>
+    </emailList>
+  </com.yrl.Person>
+  <com.yrl.Person>
+    <UUID>p003</UUID>
+    <firstName>Spider-Man</firstName>
+    <lastName>Parker</lastName>
+    <address>
+      <street>789 Web Rd</street>
+      <city>New York</city>
+      <state>NY</state>
+      <zip>12345</zip>
+    </address>
+    <emailList>
+      <string>spiderman@email.com</string>
+      <string>spiderman1@email.com</string>
+    </emailList>
+  </com.yrl.Person>
+</list>

@@ -1,0 +1,4 @@
+saleCode,storeCode,customerUUID,salesPersonUUId,date
+s01,s2,b1,b2,2023-12-12
+s02,s3,b3,b1,2022-11-10
+s03,s1,b2,b3,2021-10-23

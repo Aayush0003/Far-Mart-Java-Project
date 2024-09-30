@@ -1,0 +1,62 @@
+<list>
+  <com.yrl.Store>
+    <storeCode>storeCode</storeCode>
+    <managerUUID>managerUUID</managerUUID>
+    <address>
+      <street>street</street>
+      <city>city</city>
+      <state>state</state>
+      <zip>zip</zip>
+    </address>
+  </com.yrl.Store>
+  <com.yrl.Store>
+    <storeCode>sc001</storeCode>
+    <managerUUID>m001</managerUUID>
+    <address>
+      <street>456 Elm Street</street>
+      <city>Lincoln</city>
+      <state>NE</state>
+      <zip>68508</zip>
+    </address>
+  </com.yrl.Store>
+  <com.yrl.Store>
+    <storeCode>sc002</storeCode>
+    <managerUUID>m002</managerUUID>
+    <address>
+      <street>567 Oak Street</street>
+      <city>Omaha</city>
+      <state>NE</state>
+      <zip>68117</zip>
+    </address>
+  </com.yrl.Store>
+  <com.yrl.Store>
+    <storeCode>sc003</storeCode>
+    <managerUUID>m003</managerUUID>
+    <address>
+      <street>789 Maple Avenue</street>
+      <city>Mead</city>
+      <state>NE</state>
+      <zip>61234</zip>
+    </address>
+  </com.yrl.Store>
+  <com.yrl.Store>
+    <storeCode>sc004</storeCode>
+    <managerUUID>m004</managerUUID>
+    <address>
+      <street>890 Pine Street</street>
+      <city>Hastings</city>
+      <state>NE</state>
+      <zip>68901</zip>
+    </address>
+  </com.yrl.Store>
+  <com.yrl.Store>
+    <storeCode>sc005</storeCode>
+    <managerUUID>m005</managerUUID>
+    <address>
+      <street>123 Birch Plaza</street>
+      <city>Wichita</city>
+      <state>KS</state>
+      <zip>67230</zip>
+    </address>
+  </com.yrl.Store>
+</list>
